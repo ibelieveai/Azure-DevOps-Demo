@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/praneethbellamkonda/Azure%20DevOps%20Demo/_apis/build/status/ibelieveai.Azure-DevOps-Demo?branchName=master)](https://dev.azure.com/praneethbellamkonda/Azure%20DevOps%20Demo/_build/latest?definitionId=2&branchName=master)
+
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
